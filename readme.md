@@ -8,8 +8,8 @@ If you like this extension, you can always **[buy me a cup of coffee](https://ww
 
 For updates on this and other projects, follow me on one of the following sites:
 
-[Google+](https://plus.google.com/107905455800180378660/posts) 
-[Facebook](https://www.facebook.com/Dane.Jerome) 
+[Google+](https://plus.google.com/107905455800180378660/posts) |
+[Facebook](https://www.facebook.com/Dane.Jerome) |
 [Twitter](https://twitter.com/JeromeDane)
 
 Note: The round "Mute" icon in this extension's icon is by [Black Bear Blanc](http://icondatabase.net/icons/black-bear-blanc/dark-buttons-2/dark-buttons-2-deviceaccessvolumemuted-icon). 
