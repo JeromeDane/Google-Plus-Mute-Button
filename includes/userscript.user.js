@@ -119,12 +119,15 @@ function injectMuteButton(postElem) {
 	}
 };
 
-// bind mouseover for current and any new posts 
+function injectButtonsIntoPosts() {
+	// draw mute button for existing posts
+	$('div[id^="update-"]').each(function() {
+		injectMuteButton(this);
+	});
+}
+injectButtonsIntoPosts();
+
+// trigger re-checking all posts when any new post is first moused over 
 $('div[id^="update-"]').live('mouseover', function() {
-	injectMuteButton(this);
-	$('.muteButton', this).show();
-});
-// bind mouseout for current and any new posts 
-$('div[id^="update-"]').live('mouseout', function() {
-	$('.muteButton', this).hide();
+	injectButtonsIntoPosts();
 });

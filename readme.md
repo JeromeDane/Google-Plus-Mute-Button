@@ -4,6 +4,8 @@ Mute Button for Google+
 This simple extension injects mute buttons into posts on Google+ (Google Plus) so 
 you can easily mute posts with a single click.
 
+[Install for Chrome](http://goo.gl/SfmWb)
+
 If you like this extension, you can always **[buy me a cup of coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=52YLWK9BPCAYN)**.
 
 For updates on this and other projects, follow me on one of the following sites:
