@@ -1,4 +1,4 @@
-Google+ Mute Button
+Mute Button for Google+
 =====================
 
 This simple extension injects mute buttons into posts on Google+ (Google Plus) so 
